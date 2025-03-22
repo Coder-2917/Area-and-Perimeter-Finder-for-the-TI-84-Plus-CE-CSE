@@ -1,4 +1,4 @@
-# Area/Perimeter Finder for the TI-84 Plus CE
+# Area/Perimeter Finder for the TI-84 Plus CE/CSE
 This TI-BASIC program will find the area and perimeter of the supported shapes.
   As of now, supported shapes include:
     -Square
@@ -6,6 +6,4 @@ This TI-BASIC program will find the area and perimeter of the supported shapes.
     -Triangle
     -Circle
     -Trapezoid
-
-You will also need NODONE.8xp to run this program.
-If your OS is 5.5.1 or later (TI-84 Plus CE), you will need [arTIfiCE](https://yvantt.github.io/arTIfiCE/), because NODONE is an assembly program written in eZ80 ASM.
+If there are any shapes you want to add or any bugs you want to report, you can find this program in the Cemetech Archives (TI-BASIC for the CE, Math Programs).
