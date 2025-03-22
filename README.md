@@ -18,9 +18,9 @@ Installation:
   This Program is only compatible with the TI-84 Plus CE and the TI-84 Plus CSE.
   To install it, you can send it from your computer using:
 
- - [TI-Connect CE]((https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware)) (Windows/MacOS)
+ - [TI-Connect CE](https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware) (Windows/MacOS)
  - [TIlp](https://sourceforge.net/projects/tilp/) (Linux)
- - [ticonnectce.latealways.dev](ticonnectce.latealways.dev) (ChromeOS, or any OS compatible with WebUSB).
+ - [ticonnectce.latealways.dev](https://ticonnectce.latealways.dev) (ChromeOS, or any OS compatible with WebUSB).
 
 
 Typing the Program:
