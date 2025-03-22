@@ -60,4 +60,4 @@ Pause "Press [enter]
 Goto M
 Lbl Q
 ClrHome
-Asm(prgmNODONE
+Stop
