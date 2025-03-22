@@ -1,15 +1,12 @@
 # Area/Perimeter Finder for the TI-84 Plus CE/CSE
+Thank you for downloading AREA for the TI-84 Plus CE/CSE.
 This TI-BASIC program will find the area and perimeter of the supported shapes.
-  As of now, supported shapes are:
-
-
-
-
-
+As of now, supported shapes include:
   
     -Square
     -Rectangle
     -Triangle
     -Circle
     -Trapezoid
-If there are any shapes you want to add or any bugs you want to report, you will be able to find this program in the Cemetech Archives (TI-BASIC for the CE, Math Programs) in a few days.
+
+If you want any shapes to be added, or have any bugs to report, you can say so in the reviews (Cemetech Archives)
