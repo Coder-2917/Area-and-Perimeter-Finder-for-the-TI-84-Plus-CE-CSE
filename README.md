@@ -1,6 +1,8 @@
 # Area/Perimeter Finder for the TI-84 Plus CE/CSE
 Thank you for downloading AREA for the TI-84 Plus CE/CSE.
 This TI-BASIC program will find the area and perimeter of the supported shapes.
+I have also ported it to Python.
+If you just want it for your calculator, you can ignore Area-Perimeter_Finder.py
 
 Supported shapes:
 ======================================================
@@ -21,8 +23,6 @@ Installation:
  - [TI-Connect CE](https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware) (Windows/MacOS)
  - [TIlp](https://sourceforge.net/projects/tilp/) (Linux)
  - [ticonnectce.latealways.dev](https://ticonnectce.latealways.dev) (ChromeOS, or any OS compatible with WebUSB).
-
-Make sure you're sending AREA.8xp, because Area-Perimeter_Finder.py is just the program ported to Python
 
 Typing the Program:
 ======================================================
