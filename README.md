@@ -22,11 +22,12 @@ Installation:
  - [TIlp](https://sourceforge.net/projects/tilp/) (Linux)
  - [ticonnectce.latealways.dev](https://ticonnectce.latealways.dev) (ChromeOS, or any OS compatible with WebUSB).
 
+Make sure you're sending AREA.8xp, because Area-Perimeter_Finder.py is just the program ported to Python
 
 Typing the Program:
 ======================================================
 
-If you cannot install it, you can simply copy the code from the Source_Code.txt file into your calculator.
+If you cannot install it, you can simply copy the code from the src(AREA-8xp).txt file into your calculator.
 
 For commands like ClrHome, Input, Output(, and Disp, you have to press [prgm] and scroll over to where it says [I/O].
  Then, you will be able to scroll up or down to find those commands.
