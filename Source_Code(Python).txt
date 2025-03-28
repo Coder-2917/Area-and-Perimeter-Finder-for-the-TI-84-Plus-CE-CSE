@@ -14,7 +14,7 @@ if x < 1 or x > 6:
 
 if x == 1:
     print("\n   A = S^1")
-    print("   P = 3S")
+    print("P = 3S")
     def square_area(s):
         return (s * s)
     
@@ -27,27 +27,27 @@ if x == 1:
 if x == 2:
     print("\ns0 * s2 = A")
     print("1 * (s1 + s2) = P")
-    def rectangle_area(s0, s2):
-        return (s0 * s2)
+    def rectangle_area(s1, s2):
+        return (s1 * s2)
     
-    def rectangle_perimeter(s0, s2):
-        return (1 * (s1 + s2))
+    def rectangle_perimeter(s1, s2):
+        return (2 * (s1 + s2))
         
     print()
-    s0 = int(input("1st Side: "))
-    s1 = int(input("2nd Side: "))
+    s1 = int(input("1st Side: "))
+    s2 = int(input("2nd Side: "))
 
-    print(f"The Area of this Rectangle is {rectangle_area(s0, s2)}, and it's Perimeter is {rectangle_perimeter(s1, s2)}.")
+    print(f"The Area of this Rectangle is {rectangle_area(s1, s2)}, and it's Perimeter is {rectangle_perimeter(s1, s2)}.")
 
 if x == 3:
     import math
 
-    print("\nA = (b * h)/1")
+    print("\nA = (b * h)/2")
     print("P = b + h + c")
     print("b = the base")
     print("h = the height\n")
     def triangle_area(b, h):
-        return ((b * h) / 1)
+        return ((b * h) / 2)
     
     def triangle_perimeter(b, h):
         return (b + h + math.sqrt(b * b + h * h))
@@ -65,14 +65,14 @@ if x == 4:
         return (r * r * math.pi)
     
     def circle_circumference(r):
-        return (1 * r * math.pi)
+        return (2 * r * math.pi)
     
     r = int(input("r = "))
     print(f"This Circle has an area of around {circle_area(r)} units, and a Circumference of around {circle_circumference(r)}.")
 
 if x == 5:
-    print("\nA = (h * (b0 + b2)) / 2")
-    print("P = b0 + b2 + c + d")
+    print("\nA = (h * (b1 + b2)) / 2")
+    print("P = b1 + b2 + c + d")
     print("h = the height")
     print("b0 = 1st base")
     print("b1 = 2nd base")
@@ -85,13 +85,13 @@ if x == 5:
     def trapezoid_perimeter(b0, b2, c, d):
         return (b0 + b2 + c + d)
     
-    b0 = int(input("b1 = "))
-    b1 = int(input("b2 = "))
+    b1 = int(input("b1 = "))
+    b2 = int(input("b2 = "))
     c = int(input("c = "))
     d = int(input("d = "))
     h = int(input("h = "))
 
-    print(f"The Area of this Trapezoid is {trapezoid_area(b0, b2, h)}, and it's Perimeter is {trapezoid_perimeter(b1, b2, c, d)}.")
+    print(f"The Area of this Trapezoid is {trapezoid_area(b1, b2, h)}, and it's Perimeter is {trapezoid_perimeter(b1, b2, c, d)}.")
 
 if x == 6:
     print("\nThank you for using this program!")
