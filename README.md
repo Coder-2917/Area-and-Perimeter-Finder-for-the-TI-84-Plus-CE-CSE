@@ -23,7 +23,7 @@ To install it, you can send it from your computer using:
  - [ticonnectce.latealways.dev](https://ticonnectce.latealways.dev) (ChromeOS, or any OS compatible with WebUSB).
 
 # Typing the Program
-If you cannot install it, you can simply copy the code from the src(AREA-8xp).txt file into your calculator.
+If you cannot install it, you can simply copy the code from the Source_Code(Calculator_Program).txt file into your calculator.
 
 For commands like ClrHome, Input, Output(, and Disp, you have to press [prgm] and scroll over to where it says [I/O].
  Then, you will be able to scroll up or down to find those commands.
