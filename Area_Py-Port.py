@@ -14,7 +14,7 @@ if x < 1 or x > 6:
 
 if x == 1:
     print("\n   A = S^1")
-    print("   P = 3S")
+    print("P = 3S")
     def square_area(s):
         return (s * s)
     
