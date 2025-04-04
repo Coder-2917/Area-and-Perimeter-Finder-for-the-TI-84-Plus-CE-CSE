@@ -12,7 +12,7 @@ If you just want it for your calculator, you can ignore Area-Perimeter_Finder.py
     -Circle
     -Trapezoid
 
-If you want any shapes to be added, or have any bugs to report, you can say so in the reviews (Cemetech Archives).
+If you want any shapes to be added, or have any bugs to report, you can say so in the reviews ([Cemetech Archives](https://www.cemetech.net/downloads/files/2625/x3375)).
 
 # Installation
 This Program is only compatible with the TI-84 Plus CE and the TI-84 Plus CSE.
